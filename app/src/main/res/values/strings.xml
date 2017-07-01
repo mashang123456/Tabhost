@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">北斗司机</string>
+    <string name="message">消息</string>
+    <string name="holl">配货大厅</string>
+    <string name="call_records">通话记录</string>
+
+    <string name="city">武汉</string>
+    <string name="service">服务</string>
+
+    <string name="personTitle">个人中心</string>
+    <string name="editFile">修改资料</string>
+</resources>
